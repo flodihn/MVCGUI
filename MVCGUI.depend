@@ -1,0 +1,64 @@
+# depslib dependency file v1.0
+1342879051 source:e:\programmering\mvcgui\mvcgui_sdl.c
+	<stdlib.h>
+	<stdio.h>
+	<assert.h>
+	<time.h>
+	"SDL/SDL.h"
+	"SDL/SDL_image.h"
+	"mvcgui.h"
+	"mvcgui_sdl.h"
+	"gfx.h"
+	"font.h"
+
+1342878956 e:\programmering\mvcgui\mvcgui.h
+
+1342878749 e:\programmering\mvcgui\mvcgui_sdl.h
+	<stdbool.h>
+
+1344071311 source:e:\programmering\mvcgui\testmvcgui.c
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	"SDL/SDL.h"
+	"SDL/SDL_image.h"
+	"gfx.h"
+	"font.h"
+	"time.h"
+	"mvcgui.h"
+
+1342802318 e:\programmering\mvcgui\gfx.h
+
+1335322642 e:\programmering\mvcgui\font.h
+
+1342254422 source:e:\programmering\mvcgui\gfx.c
+	<time.h>
+	"SDL/SDL.h"
+	"SDL/SDL_image.h"
+	"gfx.h"
+
+1342185278 source:e:\programmering\mvcgui\font.c
+	<stdlib.h>
+	<string.h>
+	"SDL/SDL.h"
+	"SDL/SDL_image.h"
+	"gfx.h"
+	"font.h"
+
+1342879000 source:e:\programmering\mvcgui\mvcgui_sdl_button.c
+	"SDL/SDL.h"
+	"SDL/SDL_image.h"
+	"mvcgui.h"
+	"mvcgui_sdl.h"
+	"gfx.h"
+	"font.h"
+	"assert.h"
+
+1344071459 source:e:\programmering\mvcgui\mvcgui_sdl_label.c
+	"SDL/SDL.h"
+	"SDL/SDL_image.h"
+	"mvcgui.h"
+	"mvcgui_sdl.h"
+	"gfx.h"
+	"font.h"
+
