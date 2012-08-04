@@ -11,7 +11,7 @@
 	"gfx.h"
 	"font.h"
 
-1342878956 e:\programmering\mvcgui\mvcgui.h
+1344072004 e:\programmering\mvcgui\mvcgui.h
 
 1342878749 e:\programmering\mvcgui\mvcgui_sdl.h
 	<stdbool.h>
@@ -54,7 +54,7 @@
 	"font.h"
 	"assert.h"
 
-1344071459 source:e:\programmering\mvcgui\mvcgui_sdl_label.c
+1344071586 source:e:\programmering\mvcgui\mvcgui_sdl_label.c
 	"SDL/SDL.h"
 	"SDL/SDL_image.h"
 	"mvcgui.h"

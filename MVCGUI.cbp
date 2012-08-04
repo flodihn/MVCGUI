@@ -32,6 +32,8 @@
 			<Add option="-Wall" />
 		</Compiler>
 		<Linker>
+			<Add option="-mwindows" />
+			<Add option="-static-libgcc" />
 			<Add library="libmingw32" />
 			<Add library="SDLmain" />
 			<Add library="SDL" />

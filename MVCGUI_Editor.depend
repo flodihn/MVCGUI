@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1344083026 source:e:\programmering\mvcgui\mvcgui_editor.c
+	<stdlib.h>
+	<GL/glut.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	"soil.h"
+	"editor_mouseinput.h"
+
+1344077960 source:e:\programmering\mvcgui\editor_loadpng.cpp
+	<GL/gl.h>
+	<GL/glu.h>
+	<png.h>
+	<cstdio>
+	<string>
+
+1344076958 source:e:\programmering\mvcgui\loadpng.cpp
+	<GL/gl.h>
+	<GL/glu.h>
+	<png.h>
+	<cstdio>
+	<string>
+
+1344082911 source:e:\programmering\mvcgui\editor_mouseinput.c
+	"editor_mouseinput.h"
+	"globals.h"
+	<GL/glut.h>
+	<SOIL.h>
+	"editor_texture.h"
+
+1344082341 e:\programmering\mvcgui\editor_mouseinput.h
+	<GL/GL.h>
+
+1344081517 e:\programmering\mvcgui\globals.h
+
+1344082467 e:\programmering\mvcgui\editor_texture.h
+
+1344082495 source:e:\programmering\mvcgui\editor_texture.c
+	<GL/GL.h>
+	<SOIL.h>
+

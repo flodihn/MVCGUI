@@ -1,8 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 <CodeBlocks_layout_file>
 	<ActiveTarget name="Debug" />
-	<File name="TestMVCGUI.c" open="1" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor1 position="2429" topLine="30" />
+	<File name="mvcgui_sdl_label.c" open="1" top="0" tabpos="9" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor1 position="640" topLine="0" />
+	</File>
+	<File name="mvcgui_sdl_button.c" open="1" top="0" tabpos="10" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor1 position="3235" topLine="57" />
+	</File>
+	<File name="TestMVCGUI.c" open="1" top="1" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor1 position="1086" topLine="18" />
 	</File>
 	<File name="font.c" open="1" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
 		<Cursor1 position="0" topLine="0" />
@@ -11,24 +17,18 @@
 		<Cursor1 position="1303" topLine="0" />
 	</File>
 	<File name="gfx.c" open="1" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor1 position="6745" topLine="254" />
+		<Cursor1 position="6747" topLine="0" />
 	</File>
 	<File name="gfx.h" open="1" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
 		<Cursor1 position="28" topLine="0" />
 	</File>
-	<File name="mvcgui.h" open="1" top="1" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor1 position="3697" topLine="95" />
+	<File name="mvcgui.h" open="1" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor1 position="1095" topLine="137" />
 	</File>
 	<File name="mvcgui_sdl.c" open="1" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
 		<Cursor1 position="779" topLine="11" />
 	</File>
 	<File name="mvcgui_sdl.h" open="1" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
 		<Cursor1 position="854" topLine="0" />
-	</File>
-	<File name="mvcgui_sdl_button.c" open="1" top="0" tabpos="10" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor1 position="3235" topLine="57" />
-	</File>
-	<File name="mvcgui_sdl_label.c" open="1" top="0" tabpos="9" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor1 position="640" topLine="0" />
 	</File>
 </CodeBlocks_layout_file>
